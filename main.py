@@ -5,4 +5,4 @@ class Dog:
     self.age = age
 
   def speak(self):
-    print("Meow Meow")
+    print("Bark Bark")

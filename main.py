@@ -6,3 +6,4 @@ class Dog:
 
   def speak(self):
     print("Bark Bark")
+Dog("Dog", "3yrs").speak()
